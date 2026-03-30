@@ -1,1 +1,1 @@
-# anxietytracker
+# wellnesstracker
